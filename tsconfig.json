@@ -1,0 +1,8 @@
+{
+ "include": ["./**/*.ts"],
+ "compilerOptions": {
+   "baseUrl": "./",
+   "esModuleInterop": true,
+   "types": ["node", "@types/jest"],
+ }
+}
